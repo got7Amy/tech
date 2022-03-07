@@ -14,7 +14,9 @@ I will never be hungry again
 
 ```
 
-[Skyline题型总结](https://mp.weixin.qq.com/s/pVfTJcjMms-pUCjrPDW4Vw).
+[Skyline题型总结](https://mp.weixin.qq.com/s/pVfTJcjMms-pUCjrPDW4Vw)
+[Add Two Numbers题型总结]（https://mp.weixin.qq.com/s/H47fiI2NUmrJpLuTkh6xKQ）
+[Interval题型总结](https://mp.weixin.qq.com/s/_-CokAsIqcfPrirqKtVI1g)
 
 ### Userful Links
 [Leetcode](https://leetcode.com/)
